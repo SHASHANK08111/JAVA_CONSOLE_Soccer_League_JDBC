@@ -1,0 +1,12 @@
+2024-04-16 15:33:53 [main] ERROR businesstier.Validator - Invalid date format. Please enter date in yyyy-MM-dd format
+2024-04-17 11:38:43 [main] ERROR businesstier.Validator - Invalid date format. Please enter date in yyyy-MM-dd format
+2024-04-17 11:38:47 [main] ERROR businesstier.Validator - Invalid date format. Please enter date in yyyy-MM-dd format
+2024-04-17 11:56:25 [main] ERROR businesstier.Validator - End date should be after start date
+2024-04-17 14:59:52 [main] ERROR businesstier.Validator - No record found
+2024-04-17 15:00:18 [main] ERROR businesstier.Validator - End date should be after start date
+2024-04-22 17:24:57 [main] ERROR businesstier.Validator - No record found
+2024-04-22 20:12:36 [Thread-0] ERROR businesstier.Validator - Team number should be greater than 1
+2024-04-22 20:12:36 [main] ERROR businesstier.Validator - Team number should be greater than 1
+2024-04-23 09:57:15 [Thread-0] ERROR businesstier.Validator - End date should be after start date
+2024-04-23 09:57:15 [Thread-2] ERROR businesstier.Validator - End date should be after start date
+2024-04-23 09:57:15 [Thread-1] ERROR businesstier.Validator - End date should be after start date
